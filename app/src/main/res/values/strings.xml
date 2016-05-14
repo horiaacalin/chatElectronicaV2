@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChatElectronica</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Setari</string>
+    <string name="title_activity_log_in">Login</string>
+    <string name="title_activity_register">Inregistrare</string>
+
+
+    <!-- LogInActivity-->
+    <string name="login_error_message">Asigura-te ca ai introdus un username si o parola.</string>
+    <string name="login_error_title">Verificare</string>
+    <string name="title_activity_chat">Chat</string>
+
+    <!-- RegisterActivity-->
+    <string name="register_error_message">Introdu numele, email-ul si parola.</string>
+</resources>
